@@ -21,9 +21,6 @@ Hi there 👋
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-</div>
-
-
 Interested right now in **3D modeling** Reconstruction /projections /depth estimation
 
 
@@ -37,6 +34,8 @@ Interested right now in **3D modeling** Reconstruction /projections /depth estim
 🔬Collaboration: Projects in computer vision, NLP and applied deep learning 
 
 🌍Next step: Graduate studies abroad 
+
+</div>
 
 
 
