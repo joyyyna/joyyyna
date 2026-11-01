@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <div align="center">
 
@@ -7,6 +7,7 @@
 🎓 Bachelor degree in Computer Systems, Master 1 in Artificial Intelligence & Applications at USTO-MB, Oran
 
 ** AI student · 🧠 Deep learning · 💬 NLP & speech · 🎨 UI/UX design · 📱 mobile apps · 👁️ Computer vision**
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,24 +23,22 @@
 
 </div>
 
----
 
-## 🔭 Interests right now
+# 🔭 Interests right now
 🧊 **3D modeling**  Reconstruction, projections and depth estimation
 
-## 🤝 Open to
+# 🤝 Open to
 
 💼 **Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
 🔬 **Collaboration** Projects in computer vision, NLP and applied deep learning 
 🌍 **Next step** Graduate studies abroad 
 
 
-## 🚀 Featured project
+# 🚀 Featured project
 
 **Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
 
----
 
-## 📫 Get in touch
+# 📫 Get in touch
 
 📊 [Kaggle] https://www.kaggle.com/narimened
