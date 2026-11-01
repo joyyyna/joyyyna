@@ -24,28 +24,24 @@ Hi there 👋
 </div>
 
 
-**Interests right now**
+Interested right now in **3D modeling** Reconstruction /projections /depth estimation
 
-**3D modeling**  Reconstruction, projections and depth estimation
 
+🚀 Featured project **Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
 
 
 **Open to**
 
-💼 **Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
+💼**Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
 
-🔬 **Collaboration** Projects in computer vision, NLP and applied deep learning 
+🔬**Collaboration** Projects in computer vision, NLP and applied deep learning 
 
-🌍 **Next step** Graduate studies abroad 
+🌍**Next step** Graduate studies abroad 
 
-
-**🚀 Featured project**
-
-**Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
 
 
 **📫 Get in touch**
 
-💼 **LinkedIn** www.linkedin.com/in/narimenederkaoui05
+LinkedIn www.linkedin.com/in/narimenederkaoui05
 
-📊 **Kaggle** https://www.kaggle.com/narimened
+Kaggle https://www.kaggle.com/narimened
