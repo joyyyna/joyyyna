@@ -2,7 +2,7 @@ Hi there 👋
 
 <div align="center">
 
-**I'm Narimene Derkaoui** 
+*I'm Narimene Derkaoui*
 
 🎓 Bachelor degree in Computer Systems, Master 1 in Artificial Intelligence & Applications at USTO-MB, Oran
 
@@ -32,11 +32,11 @@ Interested right now in **3D modeling** Reconstruction /projections /depth estim
 
 **Open to**
 
-💼**Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
+💼Freelance work: AI / ML development, mobile apps with Flutter, and UI/UX design 
 
-🔬**Collaboration** Projects in computer vision, NLP and applied deep learning 
+🔬Collaboration: Projects in computer vision, NLP and applied deep learning 
 
-🌍**Next step** Graduate studies abroad 
+🌍Next step: Graduate studies abroad 
 
 
 
