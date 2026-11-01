@@ -6,7 +6,7 @@ Hi there 👋
 
 🎓 Bachelor degree in Computer Systems, Master 1 in Artificial Intelligence & Applications at USTO-MB, Oran
 
-** AI student · 🧠 Deep learning · 💬 NLP & speech · 🎨 UI/UX design · 📱 mobile apps · 👁️ Computer vision**
+**AI student · 🧠 Deep learning · 💬 NLP & speech · 🎨 UI/UX design · 📱 mobile apps · 👁️ Computer vision**
 
 
 
