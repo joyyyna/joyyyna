@@ -25,6 +25,7 @@ Hi there 👋
 
 
 **🔭 Interests right now**
+
 🧊 **3D modeling**  Reconstruction, projections and depth estimation
 
 **🤝 Open to**
