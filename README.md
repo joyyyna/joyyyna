@@ -28,10 +28,14 @@ Hi there 👋
 
 **3D modeling**  Reconstruction, projections and depth estimation
 
+
+
 **Open to**
 
 💼 **Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
+
 🔬 **Collaboration** Projects in computer vision, NLP and applied deep learning 
+
 🌍 **Next step** Graduate studies abroad 
 
 
@@ -42,6 +46,6 @@ Hi there 👋
 
 **📫 Get in touch**
 
-💼 [LinkedIn] www.linkedin.com/in/narimenederkaoui05
+💼 **LinkedIn** www.linkedin.com/in/narimenederkaoui05
 
-📊 [Kaggle] https://www.kaggle.com/narimened
+📊 **Kaggle** https://www.kaggle.com/narimened
