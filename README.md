@@ -29,11 +29,9 @@
 
 ## 🤝 Open to
 
-| | |
-|:---|:---|
-| 💼 **Freelance work** | AI / ML development, mobile apps with Flutter, and UI/UX design |
-| 🔬 **Collaboration** | Projects in computer vision, NLP and applied deep learning |
-| 🌍 **Next step** | Graduate studies abroad |
+💼 **Freelance work** AI / ML development, mobile apps with Flutter, and UI/UX design 
+🔬 **Collaboration** Projects in computer vision, NLP and applied deep learning 
+🌍 **Next step** Graduate studies abroad 
 
 
 ## 🚀 Featured project
