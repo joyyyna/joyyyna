@@ -4,7 +4,7 @@ Hi there 👋
 
 *I'm Narimene Derkaoui*
 
-🎓 Bachelor degree in Computer Systems, Master 1 in Artificial Intelligence & Applications at USTO-MB, Oran
+🎓 Bachelor degree in Computer Systems, currently Master 2 in Artificial Intelligence & Applications at USTO-MB, Oran
 
 **AI student · 🧠 Deep learning · 💬 NLP & speech · 🎨 UI/UX design · 📱 mobile apps · 👁️ Computer vision**
 
