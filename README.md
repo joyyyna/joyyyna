@@ -31,7 +31,7 @@ Interested right now in **3D modeling** Reconstruction /projections /depth estim
 
 💼Freelance work: AI / ML development, mobile apps with Flutter, and UI/UX design 
 
-🔬Collaboration: Projects in WEB design, computer vision, NLP and applied deep learning 
+🔬Collaboration: Projects in computer vision, NLP and applied deep learning 
 
 🌍Next step: Graduate studies abroad 
 
