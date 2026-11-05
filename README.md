@@ -44,10 +44,10 @@
 ![Narimene's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
 ---
 
+</div>
+
 ### 📬 Get in touch
 
 LinkedIn [www.linkedin.com/in/narimenederkaoui05](https://www.linkedin.com/in/narimenederkaoui05)
 
 Kaggle [https://www.kaggle.com/narimened](https://www.kaggle.com/narimened)
-
-</div>
