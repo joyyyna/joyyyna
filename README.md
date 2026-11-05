@@ -52,7 +52,6 @@ Kaggle [https://www.kaggle.com/narimened](https://www.kaggle.com/narimened)
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight)
-
-![Narimene's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/joyyyna)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/joyyyna)
 </div>
