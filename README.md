@@ -20,6 +20,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-0096D6?style=for-the-badge&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-3E4D6C?style=for-the-badge&logoColor=white)
 
 
 🔬 Interested right now in **3D Modeling** Reconstruction / projections / depth estimation and **Medical Imaging**
@@ -35,15 +38,6 @@
 
 🌍 Next step: Graduate studies abroad
 
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight)
-
-![Narimene's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
----
-
 </div>
 
 ### 📬 Get in touch
@@ -51,3 +45,15 @@
 LinkedIn [www.linkedin.com/in/narimenederkaoui05](https://www.linkedin.com/in/narimenederkaoui05)
 
 Kaggle [https://www.kaggle.com/narimened](https://www.kaggle.com/narimened)
+
+
+---
+<div align="center">
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight)
+
+![Narimene's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
+</div>
+---
