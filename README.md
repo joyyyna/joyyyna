@@ -20,9 +20,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Open3D](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logoColor=white)
+
 
 🔬 Interested right now in **3D Modeling** Reconstruction / projections / depth estimation and **Medical Imaging**
+
 
 🚀 Featured project **Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
 
@@ -40,10 +41,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joyyyna.joyyyna)
-
+![Narimene's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight)
 ---
 
 ### 📬 Get in touch
