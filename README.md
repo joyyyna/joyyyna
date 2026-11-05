@@ -21,7 +21,7 @@ Hi there 👋
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-Interested right now in **3D modeling** Reconstruction /projections /depth estimation
+Interested right now in **3D Modeling** Reconstruction /projections /depth estimation and **Medical Imaging**
 
 
 🚀 Featured project **Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
