@@ -24,9 +24,11 @@
 ![MONAI](https://img.shields.io/badge/MONAI-0096D6?style=for-the-badge&logoColor=white)
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-3E4D6C?style=for-the-badge&logoColor=white)
 
+---
 
 🔬 Interested right now in **3D Modeling** Reconstruction / projections / depth estimation and **Medical Imaging**
 
+---
 
 🚀 Featured project **Pookie** : an AI-powered educational app for young children, built with Flutter, Gemini, Hugging Face models and Firebase, and tested in a real classroom.
 
@@ -45,13 +47,3 @@
 LinkedIn [www.linkedin.com/in/narimenederkaoui05](https://www.linkedin.com/in/narimenederkaoui05)
 
 Kaggle [https://www.kaggle.com/narimened](https://www.kaggle.com/narimened)
-
-
----
-<div align="center">
-
-### 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyyyna&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/joyyyna)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyyyna&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/joyyyna)
-</div>
