@@ -44,6 +44,8 @@
 
 ### 📬 Get in touch
 
+📧 narimenederkaoui05@gmail.com
+
 LinkedIn [www.linkedin.com/in/narimenederkaoui05](https://www.linkedin.com/in/narimenederkaoui05)
 
 Kaggle [https://www.kaggle.com/narimened](https://www.kaggle.com/narimened)
